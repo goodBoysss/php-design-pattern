@@ -1,6 +1,6 @@
 <?php
 /**
- * 在PHP中，可以使用适配器模式（Adapter Pattern）来实现侨联模式（Facade Pattern）。
+ * 可以使用适配器模式（Adapter Pattern）来实现侨联模式（Facade Pattern）。
  * 适配器模式允许将多个不兼容的接口封装在一个适配器类中，以提供一个统一的接口给客户端使用。
  */
 // 子系统类A
